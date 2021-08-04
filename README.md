@@ -2,12 +2,14 @@
 Web-based clinic and pharmacy management application (medical record)
 made using php 7
 
-Fitur :
+Fitur (features) :
 
-
+𝐃𝐚𝐭𝐚 𝐫𝐞𝐤𝐚𝐦 𝐦𝐞𝐝𝐢𝐬 (𝐦𝐞𝐝𝐢𝐜𝐚𝐥 𝐫𝐞𝐜𝐨𝐫𝐝 𝐝𝐚𝐭𝐚) :
+(data tindakan, data petugas, data dokter, data obat, data pasien)
+(action data, officer data, doctor data, drug data, patient data)
 
 ///////////////////////////////////////
 
-𝐡𝐭𝐭𝐩𝐬://𝐠𝐢𝐭𝐡𝐮𝐛.𝐜𝐨𝐦/𝐤𝐦-𝐝𝐞𝐯𝟏𝟐/𝐤𝐥𝐢𝐧𝐢𝐤𝐚𝐩𝐨𝐭𝐞𝐤
+https://github.com/km-dev12/klinikapotek
 
 ///////////////////////////////////////
