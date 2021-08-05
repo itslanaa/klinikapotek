@@ -4,7 +4,16 @@
 <pre>
 <img src="https://1.bp.blogspot.com/-jNEWRBZ6dlA/YQv-gsoMNmI/AAAAAAAABUI/KWFiKenx5SARDSMzOgYwk8tP45RaX7QlgCLcBGAsYHQ/s1920/2021-08-05.png" alt="dashboard"</img>
 </pre>
+<pre>
+<h5>Demo User :<h/5>
+Username : admin
+Password : admin
 
+Username : klinik
+Password : klinik
+
+Username : apotek
+Password : apotek
 
 - 📫 Cooperation contact **maulanaabdillah73@gmail.com**
 
