@@ -15,7 +15,7 @@ Password : klinik
 Username : apotek
 Password : apotek
 </pre>
-- 📫 Cooperation contact <b>maulanaabdillah73@gmail.com</b><br>
+- 📫 Cooperation Contact <b>maulanaabdillah73@gmail.com</b><br>
 - 💰 <b>Support Me</b> https://saweria.co/KmDev12
 <h3 align="left">Connect with me:</h3>
 <p align="left">
