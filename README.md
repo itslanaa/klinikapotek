@@ -2,7 +2,7 @@
 <h3 align="center">Aplikasi Manajemen Klinik dan Apotek Berbasis Web</h3>
 <h4 align="center"><i>Clinic and Pharmacy Management Application Web-Based</i></h4>
 <pre>
-<img width="800px;" src="https://1.bp.blogspot.com/-jNEWRBZ6dlA/YQv-gsoMNmI/AAAAAAAABUI/KWFiKenx5SARDSMzOgYwk8tP45RaX7QlgCLcBGAsYHQ/s1920/2021-08-05.png" alt="dashboard"</img>
+<img width="850px;" align="center" src="https://1.bp.blogspot.com/-jNEWRBZ6dlA/YQv-gsoMNmI/AAAAAAAABUI/KWFiKenx5SARDSMzOgYwk8tP45RaX7QlgCLcBGAsYHQ/s1920/2021-08-05.png" alt="dashboard"</img>
 </pre>
 
 
