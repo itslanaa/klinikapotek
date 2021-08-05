@@ -1,4 +1,4 @@
-<h1 align="center">Native PHP<sup>(v.8)</sup></h1>
+<h1 align="center">Native PHP<sup>(v.7)</sup></h1>
 <h3 align="center">Aplikasi Manajemen Klinik dan Apotek Berbasis Web</h3>
 <h4 align="center"><i>Clinic and Pharmacy Management Application Web-Based</i></h4>
 <pre>
