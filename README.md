@@ -15,9 +15,8 @@ Password : klinik
 Username : apotek
 Password : apotek
 </pre>
-- 📫 Cooperation contact <b>maulanaabdillah73@gmail.com</b>
-<b>SUPPORT</b>
-- 💰 https://saweria.co/KmDev12
+- 📫 Cooperation contact <b>maulanaabdillah73@gmail.com</b><br>
+- 💰 <b>Support Me</b> https://saweria.co/KmDev12
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kakamaulanaa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kakamaulanaa1" height="30" width="40" /></a>
