@@ -31,10 +31,10 @@ Aplikasi ini merupakan proyek tugas akhir (Project Work) kelas 2 SMK untuk memen
 ## Demo User
 * Username : admin
 * Password : admin
-<br>
+
 * Username : klinik
 * Password : klinik
-<br>
+
 * Username : apotek
 * Password : apotek
 </pre>
