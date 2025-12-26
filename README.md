@@ -29,14 +29,14 @@ Aplikasi ini merupakan proyek tugas akhir (Project Work) kelas 2 SMK untuk memen
 5. Buka browser dan akses `localhost/klinikapotek`.
 
 ## Demo User
-Username : admin
-Password : admin
+* Username : admin
+* Password : admin
 <br>
-Username : klinik
-Password : klinik
+* Username : klinik
+* Password : klinik
 <br>
-Username : apotek
-Password : apotek
+* Username : apotek
+* Password : apotek
 </pre>
 
 ## Lisensi
